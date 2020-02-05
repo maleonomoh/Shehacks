@@ -1,0 +1,27 @@
+TAGS
+
+<head>
+<header>
+<heading>
+<body>
+<foot>
+<em>  itally
+<ul>  bullet listing
+<P>  = Paraghraph
+<h1,h2,..h7> headings
+control forward slash (/) = To cancel a scrip without deleting it
+
+ <ul>= unorder listing
+<ol> = ordered lising
+<li> = number listing
+<ol start="5">
+
+tr = table roll
+th = table header
+td = table data
+
+<a href="">
+<img src="">
+alt attribute is add to image = to add details to the immage for the sake of physically challanged.
+<br> to move to the next line
+<hr>  horizontal line
